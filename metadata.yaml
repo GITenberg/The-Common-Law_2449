@@ -1,0 +1,38 @@
+_repo: The-Common-Law_2449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, Oliver Wendell
+    alias: Holmes, O. W. (Oliver Wendell)
+    birthdate: 1841
+    deathdate: 1935
+    gutenberg_agent_id: '4722'
+    url: http://www.gutenberg.org/2009/agents/4722
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Jr.
+description: "The Common Law is a book that was written by Oliver Wendell Holmes,\
+  \ Jr. in 1881. Holmes later (1902) became an Associate Justice on the Supreme Court\
+  \ of the United States.\nThe book is about common law in the United States, including\
+  \ torts, property, contracts, and crime. It is written as a series of lectures.\
+  \ It has gone out of copyright and is available in full on the web at Project Gutenberg.\n\
+  One of the most famous aphorisms to be drawn from this book occurs on the first\
+  \ page: \"The life of the law has not been logic; it has been experience,\" a subtle\
+  \ qualification of the famous seventeenth-century English jurist Sir Edward Coke's\
+  \ dictum that \"Reason is the life of the law.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: United States Law
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2449'
+  wikidata: Q7727010
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Common law'
+- !lcc 'K'
+- GITenberg
+title: The Common Law
+url: http://www.gutenberg.org/ebooks/2449
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Common_Law_(Holmes)
