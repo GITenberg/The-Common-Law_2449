@@ -1,5 +1,8 @@
 _repo: The-Common-Law_2449
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Holmes, Oliver Wendell
@@ -18,6 +21,8 @@ description: "The Common Law is a book that was written by Oliver Wendell Holmes
   \ page: \"The life of the law has not been logic; it has been experience,\" a subtle\
   \ qualification of the famous seventeenth-century English jurist Sir Edward Coke's\
   \ dictum that \"Reason is the life of the law.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2449#The-Common-Law
 gutenberg_bookshelf: United States Law
 gutenberg_issued: '2000-12-01'
 gutenberg_type: Text
